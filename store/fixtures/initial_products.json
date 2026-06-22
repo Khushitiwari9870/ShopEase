@@ -1,0 +1,63 @@
+[
+  {
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+      "name": "Classic White T-Shirt",
+      "slug": "classic-white-tshirt",
+      "description": "A comfortable classic white t-shirt made from 100% cotton. Soft, breathable, and perfect for everyday wear.",
+      "price": "19.99",
+      "stock": 50,
+      "created_at": "2026-06-22T00:00:00Z"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+      "name": "Slim Jeans",
+      "slug": "slim-jeans",
+      "description": "Modern slim-fit jeans with a little stretch for comfort. Durable and stylish for any casual outfit.",
+      "price": "49.99",
+      "stock": 30,
+      "created_at": "2026-06-22T00:00:00Z"
+    }
+  }
+  ,
+  {
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+      "name": "Running Shoes",
+      "slug": "running-shoes",
+      "description": "Lightweight running shoes with breathable mesh and responsive cushioning.",
+      "price": "69.99",
+      "stock": 40,
+      "created_at": "2026-06-22T00:00:00Z"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+      "name": "Leather Jacket",
+      "slug": "leather-jacket",
+      "description": "Classic leather jacket with a soft lining — perfect for cooler nights.",
+      "price": "129.99",
+      "stock": 15,
+      "created_at": "2026-06-22T00:00:00Z"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 5,
+    "fields": {
+      "name": "Cozy Hoodie",
+      "slug": "cozy-hoodie",
+      "description": "Warm, cozy hoodie with a soft fleece interior and roomy kangaroo pocket.",
+      "price": "39.99",
+      "stock": 60,
+      "created_at": "2026-06-22T00:00:00Z"
+    }
+  }
+]

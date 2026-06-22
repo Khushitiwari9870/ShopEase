@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 400' preserveAspectRatio='xMidYMid slice'>
+  <defs>
+    <linearGradient id='g' x1='0' x2='1'>
+      <stop offset='0' stop-color='#e6f0ff'/>
+      <stop offset='1' stop-color='#ffffff'/>
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='400' fill='url(#g)' />
+  <g transform='translate(80,40)'>
+    <rect x='0' y='0' width='480' height='320' rx='12' fill='#fff' stroke='#e6edf8'/>
+    <text x='30' y='60' font-size='48' fill='#0b1226' font-family='Inter, Arial'>Live In Denim</text>
+    <text x='30' y='120' font-size='20' fill='#6b7280'>Shop the latest denim collection — comfortable, stylish.</text>
+    <a href='#'><rect x='30' y='160' width='140' height='36' rx='6' fill='#0d6efd'/></a>
+  </g>
+</svg>

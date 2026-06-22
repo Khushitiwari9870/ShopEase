@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Thank you — order placed</h1>
+  <p>Your order #{{ order.id }} has been received. We'll email you at {{ order.email }} with updates.</p>
+  <a href="/" class="btn btn-primary">Continue Shopping</a>
+{% endblock %}
