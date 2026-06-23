@@ -1,3 +1,4 @@
+
 ShopEase - Minimal Django E-Commerce
 
 Setup and run (Windows PowerShell):
@@ -15,3 +16,6 @@ Notes:
 - Media uploads require Pillow (included in `requirements.txt`).
 - In development, media files are served by Django when `DEBUG=True`.
 - Create products in the admin or via Django shell. Product images can be uploaded via admin.
+
+# ShopEase
+ 
